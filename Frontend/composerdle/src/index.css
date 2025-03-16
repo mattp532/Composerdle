@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+html,body{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: rgb(189, 189, 189);
+
+}
+#root {
+  height: 100%;
+  display: flex;
+  flex-direction: column; /* Allows for flexibility, you can adjust this depending on your layout */
+  align-items: center;
+
+}
