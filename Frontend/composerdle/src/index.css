@@ -12,7 +12,7 @@ html,body{
 #root {
   height: 100%;
   display: flex;
-  flex-direction: column; /* Allows for flexibility, you can adjust this depending on your layout */
+  flex-direction: column; 
   align-items: center;
 
 }
